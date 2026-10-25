@@ -1,0 +1,4 @@
+*.o
+router
+hosts_output
+router_*
